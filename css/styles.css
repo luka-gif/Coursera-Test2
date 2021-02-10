@@ -1,0 +1,15 @@
+.row {
+  margin: 15px;
+}
+.row > div {
+  border: 2px solid black;
+  background-color: gray;
+   position: relative;
+   text-align: center;
+   top: 170px;
+   left: 5%;
+   width: 500px;
+   height: 230px
+
+
+}
